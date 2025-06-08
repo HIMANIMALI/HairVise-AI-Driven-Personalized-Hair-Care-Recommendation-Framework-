@@ -1,0 +1,2 @@
+# HairVise-AI-Driven-Personalized-Hair-Care-Recommendation-Framework-
+Tuned ML models on a 10K-image dataset with A/B tests and hyperparameter sweeps, boosting recommendation accuracy 30% • Published at IEEE-ICISC ’24 and deployed an AR virtual-try-on for real-time hair-color previews, lifting engagement 25% • Co-developed and deployed a TensorFlow NLP chatbot for Q&amp;A and doctor referrals, slashing response time 35%
